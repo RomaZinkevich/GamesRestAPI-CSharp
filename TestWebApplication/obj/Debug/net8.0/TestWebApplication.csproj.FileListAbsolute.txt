@@ -23,3 +23,4 @@ D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\refint\TestWe
 D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebApplication.pdb
 D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebApplication.genruntimeconfig.cache
 D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\ref\TestWebApplication.dll
+D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebApplication.sourcelink.json
