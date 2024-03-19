@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "a4BsY9qIHCd6Gs2VGD68q62vzHnPMzwc6jSBLhiErgRtDI7e5fQgh9fHb5eURVGbkNJrVmZA5jz+1GRReKTDgw==",
+  "dgSpecHash": "kV2ei0LvQqNKZf8XhqvP5N26oT28W49o/dro22wIo4Chu6/kll4+npYWdsAe0/dCeulHETYTXtx0wxTrNpok1w==",
   "success": true,
   "projectFilePath": "D:\\C#\\Learning\\Simple REST API\\TestWebApplication\\TestWebApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zra19\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\zra19\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\zra19\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

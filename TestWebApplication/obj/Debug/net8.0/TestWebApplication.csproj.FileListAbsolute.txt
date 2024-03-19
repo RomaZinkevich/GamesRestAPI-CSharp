@@ -24,3 +24,9 @@ D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebApplic
 D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebApplication.genruntimeconfig.cache
 D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\ref\TestWebApplication.dll
 D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebApplication.sourcelink.json
+D:\C#\Learning\Simple REST API\TestWebApplication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C#\Learning\Simple REST API\TestWebApplication\bin\Debug\net8.0\MinimalApis.Extensions.dll
+D:\C#\Learning\Simple REST API\TestWebApplication\bin\Debug\net8.0\MiniValidation.dll
+D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebApplication.csproj.AssemblyReference.cache
+D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\Learning\Simple REST API\TestWebApplication\obj\Debug\net8.0\TestWebA.1389C9C5.Up2Date
